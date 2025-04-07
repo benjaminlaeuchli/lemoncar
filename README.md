@@ -67,4 +67,3 @@ These features were most predictive of whether a car would turn out to be a kick
 
 Switching to **Random Forest** proved to be the right decision after evaluating the performance of KNN, Decision Trees, and Logistic Regression. The Random Forest model offered a **better balance** between precision and recall, which was essential for correctly identifying kick cars. Its ability to handle **class imbalance**, capture **non-linear relationships**, and **generalize** better made it a more suitable choice for predicting bad buys.
 
-By using Random Forest, dealerships can make more informed decisions, avoiding costly mistakes when purchasing cars at auctions. This model helps to save on repair costs, transportation fees, and market losses, ultimately improving both profitability and customer satisfaction.
