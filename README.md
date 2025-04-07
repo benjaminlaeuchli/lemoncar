@@ -1,4 +1,5 @@
-![Distribution plot](lemoncar/Numerical%20Distribution%20plot.png)
+![Distribution plot](https://github.com/benjaminlaeuchli/lemoncar/blob/main/Numerical%20Distribution%20plot.png?raw=true)
+
 
 # Auto Dealership Kick Prediction Model
 
