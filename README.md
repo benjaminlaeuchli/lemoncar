@@ -1,3 +1,6 @@
+
+![Kick Prediction Flowchart](/Users/derphantomben/Documents/Coding/Portfolio/LemonCarsChallenge/Screenshot 2025-04-07 at 11.48.13 AM 1.png)
+
 # Auto Dealership Kick Prediction Model
 
 ## Description
